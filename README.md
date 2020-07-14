@@ -1,4 +1,4 @@
-# bidol-app
+# template-app
 
 ## Project setup
 ```
